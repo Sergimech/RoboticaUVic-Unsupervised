@@ -1,3 +1,6 @@
+ > ![En contruccion](img/construccion.npg) 
+
+
 # Pattern Recognition Assignments 3: Unsupervised Learning
 
 ## Instructions
